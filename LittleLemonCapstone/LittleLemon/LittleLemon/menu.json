@@ -1,0 +1,68 @@
+{
+  "menuList": [
+    {
+      "id": 1,
+      "title": "Greek Salad",
+      "price": 12.99,
+      "description": "Crisp vegetables, feta cheese, olives and a lemon dressing.",
+      "category": "Starters",
+      "imageSymbol": "leaf.circle.fill"
+    },
+    {
+      "id": 2,
+      "title": "Bruschetta",
+      "price": 7.99,
+      "description": "Grilled bread with tomatoes, fresh basil and olive oil.",
+      "category": "Starters",
+      "imageSymbol": "fork.knife.circle.fill"
+    },
+    {
+      "id": 3,
+      "title": "Grilled Fish",
+      "price": 20.0,
+      "description": "Fresh fish grilled with Mediterranean herbs and lemon.",
+      "category": "Mains",
+      "imageSymbol": "fish.fill"
+    },
+    {
+      "id": 4,
+      "title": "Pasta Primavera",
+      "price": 15.5,
+      "description": "Pasta with seasonal vegetables and a light sauce.",
+      "category": "Mains",
+      "imageSymbol": "fork.knife"
+    },
+    {
+      "id": 5,
+      "title": "Lemon Dessert",
+      "price": 6.99,
+      "description": "Creamy and bright lemon dessert with a buttery crust.",
+      "category": "Desserts",
+      "imageSymbol": "birthday.cake.fill"
+    },
+    {
+      "id": 6,
+      "title": "Baklava",
+      "price": 8.5,
+      "description": "Flaky filo pastry layered with nuts and honey.",
+      "category": "Desserts",
+      "imageSymbol": "birthday.cake"
+    },
+    {
+      "id": 7,
+      "title": "Fresh Lemonade",
+      "price": 4.5,
+      "description": "House-made lemonade with fresh lemons and mint.",
+      "category": "Drinks",
+      "imageSymbol": "cup.and.saucer.fill"
+    },
+    {
+      "id": 8,
+      "title": "Iced Tea",
+      "price": 3.99,
+      "description": "Refreshing freshly brewed iced tea.",
+      "category": "Drinks",
+      "imageSymbol": "mug.fill"
+    }
+  ]
+}
